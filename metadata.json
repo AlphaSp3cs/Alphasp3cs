@@ -1,0 +1,5 @@
+{
+  "name": "Live Stock Scanner",
+  "description": "A web application that simulates a live stock scanner, tracking key metrics for a list of stocks and highlighting notable market activity. Data is updated every 15 seconds to mimic real-time market changes.",
+  "requestFramePermissions": []
+}
